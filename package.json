@@ -1,5 +1,5 @@
 {
-  "name": "pixel-validate",
+  "name": "pxvalidate",
   "version": "1.0.0",
   "description": "Fast and simple JavaScript validation library for emails, URLs, IPs, and more.",
   "main": "index.js",
