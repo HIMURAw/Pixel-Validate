@@ -7,17 +7,12 @@ A simple and modular JavaScript validation library for common data checks.
 ## 📥 Installation
 
 ```bash
-npm install pixel-validate
+npm install pixel-pxvalidate
+```
 
 
-
-## 👍 Usage
 
 ```bash
-
-const validate = require('pixel-validate');
-```bash
-
 // Basic Validations
 validate.isEmail('test@example.com');              // true
 validate.isURL('https://example.com');             // true
@@ -55,3 +50,4 @@ validate.isValidDate('2025-05-06');                // true
 validate.isDivisibleBy(10, 2);                     // true
 validate.isLowerCase('hello');                     // true
 validate.isUpperCase('HELLO');                     // true
+```
