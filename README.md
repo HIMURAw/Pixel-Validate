@@ -10,9 +10,13 @@ A simple and modular JavaScript validation library for common data checks.
 npm install pixel-validate
 
 
+
 ## 👍 Usage
 
+```bash
+
 const validate = require('pixel-validate');
+```bash
 
 // Basic Validations
 validate.isEmail('test@example.com');              // true
