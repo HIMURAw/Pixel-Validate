@@ -1,0 +1,19 @@
+{
+  "name": "pixel-validate",
+  "version": "1.0.0",
+  "description": "Fast and simple JavaScript validation library for emails, URLs, IPs, and more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HIMURAw/Pixel-Validate.git"
+  },
+  "author": "HIMURA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HIMURAw/Pixel-Validate/issues"
+  },
+  "homepage": "https://github.com/HIMURAw/Pixel-Validate#readme"
+}
