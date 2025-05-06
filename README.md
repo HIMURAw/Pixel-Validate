@@ -7,7 +7,7 @@ A simple and modular JavaScript validation library for common data checks.
 ## 📥 Installation
 
 ```bash
-npm install pixel-pxvalidate
+npm i pxvalidate
 ```
 
 
