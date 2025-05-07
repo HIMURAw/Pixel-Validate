@@ -12,6 +12,7 @@ npm i pxvalidate
 
 
 
+## 📥 Using
 ```bash
 // Basic Validations
 validate.isEmail('test@example.com');              // true
